@@ -22,26 +22,21 @@ Hi, I'm Prajwal M P 👋<br>Java Full Stack Developer | MERN Stack Developer | D
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prajwalps2603&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalps2603&theme=tokyonight&hide_border=true&layout=compact&count_private=true"/>
+<img height="195" src="https://github-stats.vercel.app/api?username=Prajwalps2603&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+&nbsp;
+<img height="195" src="https://github-stats.vercel.app/api/top-langs/?username=Prajwalps2603&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Prajwalps2603&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Prajwalps2603&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Prajwalps2603&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prajwalps2603&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://ghchart.rshah.org/70a5fd/Prajwalps2603" alt="Contribution Chart"/>
 
 </div>
 
