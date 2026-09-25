@@ -22,26 +22,26 @@ Hi, I'm Prajwal M P 👋<br>Java Full Stack Developer | MERN Stack Developer | D
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prajwalps2603&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" alt="GitHub Stats"/>
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Prajwalps2603&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=38bdae&currStreakNum=ffffff&sideNums=ffffff&dates=38bdae" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prajwalps2603&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalps2603&theme=tokyonight&hide_border=true&layout=compact&count_private=true"/>
 
 </div>
 
 <div align="center">
 
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalps2603&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com/?user=Prajwalps2603&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-  ![](https://github-profile-trophy.vercel.app/?username=Prajwalps2603&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Prajwalps2603&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)
 
 </div>
 
 <div align="center">
 
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prajwalps2603&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prajwalps2603&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
